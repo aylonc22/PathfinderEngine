@@ -20,4 +20,7 @@ public class Graph {
     public Map<Node, List<Edge>> getAdjList() {
         return adjList;
     }
+
+    public Node getNodeById(String fromId) {
+    }
 }
